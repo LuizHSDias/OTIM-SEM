@@ -55,7 +55,7 @@ Além disso, foi incorporada a restrição descrita pelos autores de que cada al
 Execute o arquivo:
 
 ```bash
-python dieta.py
+python DietaHumana.py
 ```
 
 ---
@@ -85,7 +85,7 @@ x18 = 0.5
 
 ## Objetivo Acadêmico
 
-Este código foi desenvolvido para fins educacionais na disciplina de Pesquisa Operacional, com o objetivo de:
+Este código foi desenvolvido para fins educacionais na disciplina de Otimização 1, com o objetivo de:
 
 * Reproduzir o modelo apresentado no artigo;
 * Validar os resultados publicados;
